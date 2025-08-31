@@ -1,0 +1,6 @@
+## Custom
+.ipynb_checkpoints/*
+others/*
+envs/*
+inputs/*
+#outputs/*
